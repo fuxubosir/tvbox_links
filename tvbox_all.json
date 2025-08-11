@@ -1,4 +1,5 @@
-[
+{
+  "urls": [
     {
         "name": "svip.json",
         "url": "http://47.96.82.41:5188/svip/svip.json"
