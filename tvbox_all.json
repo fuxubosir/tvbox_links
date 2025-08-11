@@ -1,121 +1,120 @@
 {
-  "urls": 
-  [
-    {
-        "name": "svip.json",
-        "url": "http://47.96.82.41:5188/svip/svip.json"
-    },
-    {
-        "name": "313.json",
-        "url": "https://gitee.com/hu-congrong/ltcw/raw/main/313.json"
-    },
-    {
-        "name": "A.json",
-        "url": "https://raw.githubusercontent.com/Grovin720/My/main/A.json"
-    },
-    {
-        "name": "lxys.json",
-        "url": "https://agit.ai/tsparkour/nmys/raw/branch/master/qt/lxys.json"
-    },
-    {
-        "name": "JavaScript.json",
-        "url": "https://agit.ai/kvymin/TV/raw/branch/master/JavaScript.json"
-    },
-    {
-        "name": "001.png",
-        "url": "https://jihulab.com/0004/0/-/raw/main/001.png?inline=false"
-    },
-    {
-        "name": "cbh.json",
-        "url": "https://gitee.com/chao231/tvbox/raw/main/cbh.json"
-    },
-    {
-        "name": "m.json",
-        "url": "http://xin46.ct8.pl/m.json"
-    },
-    {
-        "name": "tv4k.json",
-        "url": "https://raw.githubusercontent.com/pdscxz/TV/main/video/tv4k.json"
-    },
-    {
-        "name": "0821.json",
-        "url": "https://raw.githubusercontent.com/debaters6/XYQ/master/0821.json"
-    },
-    {
-        "name": "moyu.json",
-        "url": "https://jihulab.com/moyuer/momoyu/-/raw/main/moyu.json"
-    },
-    {
-        "name": "uanw.json",
-        "url": "https://qu.ax/uanw.json"
-    },
-    {
-        "name": "000.m3u8",
-        "url": "https://agit.ai/66666/mao2/raw/branch/main/0/000.m3u8"
-    },
-    {
-        "name": "config.json",
-        "url": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"
-    },
-    {
-        "name": "GnnawsNW",
-        "url": "https://pastebin.com/raw/GnnawsNW"
-    },
-    {
-        "name": "waynfifdwj.json",
-        "url": "https://raw.githubusercontent.com/wnddwc/daiweichun/main/waynfifdwj.json"
-    },
-    {
-        "name": "h.json",
-        "url": "https://raw.githubusercontent.com/zyp91281115/TVbox/main/h/h.json"
-    },
-    {
-        "name": "ss.json",
-        "url": "https://raw.githubusercontent.com/zhongyuan689/tvbox00/main/ss.json"
-    },
-    {
-        "name": "18.json",
-        "url": "https://raw.githubusercontent.com/mmtekamu/tvbox/main/jiekou/18.json"
-    },
-    {
-        "name": "h.json (xinyi1984)",
-        "url": "https://raw.githubusercontent.com/xinyi1984/xytv/master/json/h.json"
-    },
-    {
-        "name": "3",
-        "url": "https://raw.githubusercontent.com/kitty83307/tvbox/main/18/3"
-    },
-    {
-        "name": "18sexN.json",
-        "url": "https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/18sexN.json"
-    },
-    {
-        "name": "99188.json",
-        "url": "https://raw.githubusercontent.com/qist/tvbox/master/99188.json"
-    },
-    {
-        "name": "21",
-        "url": "https://raw.githubusercontent.com/kitty83307/tvbox/main/18/21"
-    },
-    {
-        "name": "0",
-        "url": "https://raw.githubusercontent.com/wuheng18/zy20231124/master/x/0"
-    },
-    {
-        "name": "adult.json",
-        "url": "https://raw.githubusercontent.com/XuQqu/PinkBird/main/adult.json"
-    },
-    {
-        "name": "r18.json",
-        "url": "https://raw.githubusercontent.com/manjuu08/mybox/main/r18.json"
-    },
-    {
-        "name": "12",
-        "url": "https://raw.githubusercontent.com/kitty83307/tvbox/main/18/12"
-    },
-    {
-        "name": "ss.json (mmtekamu)",
-        "url": "https://raw.githubusercontent.com/mmtekamu/tvbox/main/jiekou/ss.json"
-    }
- ]
+    "list": [
+        {
+            "name": "svip",
+            "url": "http://47.96.82.41:5188/svip/svip.json"
+        },
+        {
+            "name": "313",
+            "url": "https://gitee.com/hu-congrong/ltcw/raw/main/313.json"
+        },
+        {
+            "name": "A",
+            "url": "https://raw.githubusercontent.com/Grovin720/My/main/A.json"
+        },
+        {
+            "name": "lxys",
+            "url": "https://agit.ai/tsparkour/nmys/raw/branch/master/qt/lxys.json"
+        },
+        {
+            "name": "JavaScript",
+            "url": "https://agit.ai/kvymin/TV/raw/branch/master/JavaScript.json"
+        },
+        {
+            "name": "001",
+            "url": "https://jihulab.com/0004/0/-/raw/main/001.png?inline=false"
+        },
+        {
+            "name": "cbh",
+            "url": "https://gitee.com/chao231/tvbox/raw/main/cbh.json"
+        },
+        {
+            "name": "m",
+            "url": "http://xin46.ct8.pl/m.json"
+        },
+        {
+            "name": "tv4k",
+            "url": "https://raw.githubusercontent.com/pdscxz/TV/main/video/tv4k.json"
+        },
+        {
+            "name": "0821",
+            "url": "https://raw.githubusercontent.com/debaters6/XYQ/master/0821.json"
+        },
+        {
+            "name": "moyu",
+            "url": "https://jihulab.com/moyuer/momoyu/-/raw/main/moyu.json"
+        },
+        {
+            "name": "uanw",
+            "url": "https://qu.ax/uanw.json"
+        },
+        {
+            "name": "000",
+            "url": "https://agit.ai/66666/mao2/raw/branch/main/0/000.m3u8"
+        },
+        {
+            "name": "config",
+            "url": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"
+        },
+        {
+            "name": "GnnawsNW",
+            "url": "https://pastebin.com/raw/GnnawsNW"
+        },
+        {
+            "name": "waynfifdwj",
+            "url": "https://raw.githubusercontent.com/wnddwc/daiweichun/main/waynfifdwj.json"
+        },
+        {
+            "name": "h",
+            "url": "https://raw.githubusercontent.com/zyp91281115/TVbox/main/h/h.json"
+        },
+        {
+            "name": "ss",
+            "url": "https://raw.githubusercontent.com/zhongyuan689/tvbox00/main/ss.json"
+        },
+        {
+            "name": "18",
+            "url": "https://raw.githubusercontent.com/mmtekamu/tvbox/main/jiekou/18.json"
+        },
+        {
+            "name": "h (xinyi1984)",
+            "url": "https://raw.githubusercontent.com/xinyi1984/xytv/master/json/h.json"
+        },
+        {
+            "name": "3",
+            "url": "https://raw.githubusercontent.com/kitty83307/tvbox/main/18/3"
+        },
+        {
+            "name": "18sexN",
+            "url": "https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/18sexN.json"
+        },
+        {
+            "name": "99188",
+            "url": "https://raw.githubusercontent.com/qist/tvbox/master/99188.json"
+        },
+        {
+            "name": "21",
+            "url": "https://raw.githubusercontent.com/kitty83307/tvbox/main/18/21"
+        },
+        {
+            "name": "0",
+            "url": "https://raw.githubusercontent.com/wuheng18/zy20231124/master/x/0"
+        },
+        {
+            "name": "adult",
+            "url": "https://raw.githubusercontent.com/XuQqu/PinkBird/main/adult.json"
+        },
+        {
+            "name": "r18",
+            "url": "https://raw.githubusercontent.com/manjuu08/mybox/main/r18.json"
+        },
+        {
+            "name": "12",
+            "url": "https://raw.githubusercontent.com/kitty83307/tvbox/main/18/12"
+        },
+        {
+            "name": "ss (mmtekamu)",
+            "url": "https://raw.githubusercontent.com/mmtekamu/tvbox/main/jiekou/ss.json"
+        }
+    ]
 }
