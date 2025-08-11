@@ -19,6 +19,10 @@
     {
       "name": "🔞qist-9918",
       "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/9918.json"
+    },
+    {
+      "name": "jsm",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json"
     }
   ]
 }
