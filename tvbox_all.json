@@ -1,10 +1,6 @@
 {
   "json_links": [
     {
-      "name": "脱口秀",
-      "url": "http://47.96.82.41:5188/svip/svip.json"
-    },
-    {
       "name": "2",
       "url": "https://gitee.com/hu-congrong/ltcw/raw/main/313.json"
     },
