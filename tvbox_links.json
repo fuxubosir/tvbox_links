@@ -1,1 +1,13 @@
-
+{
+  "sites": [
+    {
+      "key": "aqy",
+      "name": "aqy2",
+      "type": 1,
+      "api": "https://www.iqiyizyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    }
+  ]
+}
