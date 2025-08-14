@@ -1,15 +1,15 @@
 {
   "sites": [
-    { "key": "fty",   "name": "饭太硬",   "type": 1, "api": "http://www.饭太硬.com/tv",   "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "qe",    "name": "巧儿接口", "type": 1, "api": "http://cdn.qiaoji8.com/tvbox.json", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "xyq",   "name": "香雅情",   "type": 1, "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+    { "key": "fty",   "name": "饭太硬",   "type": 1, "api": "http://www.饭太硬.com/tv/",   "searchable": 1, "quickSearch": 1, "filterable": 1 },
+    { "key": "qj",    "name": "巧计接口", "type": 1, "api": "http://cdn.qiaoji8.com/tvbox.json", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+    { "key": "xyq",   "name": "香雅情",   "type": 1, "api": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json", "searchable": 1, "quickSearch": 1, "filterable": 1 },
     { "key": "nf",    "name": "南风源",   "type": 1, "api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "gtly",  "name": "高天流云", "type": 1, "api": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "nxog",  "name": "欧歌多仓", "type": 1, "api": "http://m.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "xm",    "name": "小米源",   "type": 1, "api": "http://xhww.fun:63/小米/DEMO.json", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "ysc",   "name": "运输车源", "type": 1, "api": "https://tvkj.top/DC/ysc/tvkj/svip.json", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "multi", "name": "多仓聚合", "type": 1, "api": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-    { "key": "nocad", "name": "无广告源", "type": 1, "api": "https://github.com/liu673cn/box/raw/main/m.json", "searchable": 1, "quickSearch": 1, "filterable": 1 }
+    { "key": "gtly",  "name": "高天流云", "type": 1, "api": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+    { "key": "liucn","name": "liucn 源",  "type": 1, "api": "https://raw.liucn.cc/box/m.json", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+    { "key": "okcat","name": "OK猫源",    "type": 1, "api": "http://ok321.top/ok", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+    { "key": "qist", "name": "qist 源",   "type": 1, "api": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+    { "key": "og",   "name": "讴歌源",    "type": 1, "api": "https://xn--xkkx-rp5imh.v.nxog.top/api.php?id=1", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+    { "key": "fm",   "name": "肥猫源",    "type": 1, "api": "http://ceshi.肥猫.com/PandaQ", "searchable": 1, "quickSearch": 1, "filterable": 1 }
   ],
   "lives": [
     {
@@ -28,7 +28,7 @@
     {
       "host": "*",
       "regex": [
-        ".*广告.*",".*ad.*",".*logo.*",".*片头.*",".*AD.*"
+        ".*广告.*", ".*ad.*", ".*logo.*", ".*片头.*", ".*AD.*"
       ]
     }
   ]
